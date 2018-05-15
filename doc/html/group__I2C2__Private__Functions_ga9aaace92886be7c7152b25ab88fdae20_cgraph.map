@@ -1,0 +1,10 @@
+<map id="P_I2C2_timeout" name="P_I2C2_timeout">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga2ee214364603059ad5d9089f749f5bfd" title="Deinitializes the I2Cx peripheral registers to their default reset values. " alt="" coords="384,28,469,54"/>
+<area shape="rect" id="node4" href="$group__I2C__Exported__Functions.html#ga5c92cb573ca0ae58cc465e5400246561" title="Generates I2Cx communication STOP condition. " alt="" coords="184,28,323,54"/>
+<area shape="rect" id="node5" href="$group__I2C__Exported__Functions.html#ga1289c908aeb882443aba323b459c638b" title="Enables or disables the specified I2C software reset. " alt="" coords="171,78,336,105"/>
+<area shape="rect" id="node6" href="$group__I2C2__Private__Functions.html#ga8c6b441c614d59c1c7b8bbd7707e1ac7" title="This funtion initializes the I2C Interface. " alt="" coords="197,129,309,156"/>
+<area shape="rect" id="node3" href="$group__RCC__Exported__Functions.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset. " alt="" coords="518,28,711,54"/>
+<area shape="rect" id="node7" href="$group__I2C__Exported__Functions.html#ga7e1323c9133c2cb424dfb5b10b7d2f0b" title="Enables or disables the specified I2C peripheral. " alt="" coords="387,104,466,130"/>
+<area shape="rect" id="node8" href="$group__I2C__Exported__Functions.html#gaac29465bca70fbc91c2f922ab67bb88e" title="Initializes the I2Cx peripheral according to the specified parameters in the I2C_InitStruct. " alt="" coords="393,154,461,181"/>
+<area shape="rect" id="node9" href="$group__RCC__Exported__Functions.html#ga3e9944fd1ed734275222bbb3e3f29993" title="Returns the frequencies of different on chip clocks. " alt="" coords="541,154,688,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="p_WS2812_InitDMA" name="p_WS2812_InitDMA">
+<area shape="rect" id="node2" href="$group__DMA__Exported__Functions.html#ga8e7cb6b9ae5f142e2961df879cdaba65" title="Enables or disables the specified DMAy Channelx. " alt="" coords="199,5,286,32"/>
+<area shape="rect" id="node3" href="$group__DMA__Exported__Functions.html#ga21ca0d50b13e502db5ab5feb484f9ece" title="Deinitializes the DMAy Channelx registers to their default reset values. " alt="" coords="195,56,290,83"/>
+<area shape="rect" id="node4" href="$group__DMA__Exported__Functions.html#ga7c3d1b9dc041f8e5f2cfc8d5dd858278" title="Initializes the DMAy Channelx according to the specified parameters in the DMA_InitStruct. " alt="" coords="204,107,281,133"/>
+<area shape="rect" id="node5" href="$group__UART1__Exported__Functions.html#ga2d4cc218b16602b311f0859651df6749" title="Logs Message to USART1 with Verbose Level. " alt="" coords="221,157,264,184"/>
+</map>

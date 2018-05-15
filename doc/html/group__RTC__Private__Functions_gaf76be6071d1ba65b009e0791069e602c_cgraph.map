@@ -1,0 +1,4 @@
+<map id="RTC_SetPrescaler" name="RTC_SetPrescaler">
+<area shape="rect" id="node2" href="$group__RTC__Private__Functions.html#ga23612d9da2fe057a0cd72c684e5b438a" title="Enters the RTC configuration mode. " alt="" coords="187,5,346,32"/>
+<area shape="rect" id="node3" href="$group__RTC__Private__Functions.html#ga7585aa6e2dbb497173b2fd03bac0d304" title="Exits from the RTC configuration mode. " alt="" coords="191,56,342,83"/>
+</map>

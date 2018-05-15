@@ -1,0 +1,10 @@
+<map id="parseCommands" name="parseCommands">
+<area shape="rect" id="node2" href="$group__UART1__Exported__Functions.html#ga7492c96b2ee9b13e083633f15d2fdd0c" title="Sends the Effect List over USART1. " alt="" coords="203,5,314,32"/>
+<area shape="rect" id="node4" href="$group__UART1__Exported__Functions.html#ga6fe2cea6f8e61610b3f4d6bcd704a882" title="Sends Settings List to USART1. " alt="" coords="197,56,321,83"/>
+<area shape="rect" id="node5" href="$stm32__ub__ws2812_8c.html#aeb9051b127af6200bf4e919e2a7afbfb" title="d_printArray" alt="" coords="213,107,305,133"/>
+<area shape="rect" id="node6" href="$group__UART1__Exported__Functions.html#ga2d4cc218b16602b311f0859651df6749" title="Logs Message to USART1 with Verbose Level. " alt="" coords="427,157,469,184"/>
+<area shape="rect" id="node7" href="$group__UART1__Exported__Functions.html#ga925ac058a6becf6dae1975abb800a779" title="Returns the new Command if received. " alt="" coords="209,208,309,235"/>
+<area shape="rect" id="node8" href="$group__UART1__Exported__Functions.html#ga5eb16eb511ddba704bbdb60aba58c4fd" title="Return 1 if new command exists. " alt="" coords="195,259,322,285"/>
+<area shape="rect" id="node9" href="$group__UART1__Exported__Functions.html#gaa8e36d4df0acce5690aba0b9c6a24c36" title="Parses CRC ML Packet Command with Trailing Values. " alt="" coords="177,309,341,336"/>
+<area shape="rect" id="node3" href="$group__UART1__Exported__Functions.html#ga8417a9f203ee9d9341d54347e13a2f47" title="Sends CRC ML Packet over USART1. " alt="" coords="389,31,507,57"/>
+</map>

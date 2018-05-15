@@ -1,0 +1,10 @@
+<map id="TIM_ICInit" name="TIM_ICInit">
+<area shape="rect" id="node2" href="$group__TIM__Private__Functions.html#gac8dbcb0d903cc0a3491155b5b4fbee65" title="Configure the TI1 as Input. " alt="" coords="170,5,257,32"/>
+<area shape="rect" id="node3" href="$group__TIM__Private__Functions.html#gafed528b30af910d7e55ebd1d22a9a58f" title="Configure the TI2 as Input. " alt="" coords="170,56,257,83"/>
+<area shape="rect" id="node4" href="$group__TIM__Private__Functions.html#gae0776241db23f0f31950476804dad588" title="Configure the TI3 as Input. " alt="" coords="170,107,257,133"/>
+<area shape="rect" id="node5" href="$group__TIM__Private__Functions.html#gaee26c0ada47174264fcd624cad3a91aa" title="Configure the TI4 as Input. " alt="" coords="170,157,257,184"/>
+<area shape="rect" id="node6" href="$group__TIM__Private__Functions.html#gaf0f684dea88e222de9689d8ed0ca8805" title="Sets the TIMx Input Capture 1 prescaler. " alt="" coords="139,208,287,235"/>
+<area shape="rect" id="node7" href="$group__TIM__Private__Functions.html#ga3cc4869b5fe73271808512c89322a325" title="Sets the TIMx Input Capture 2 prescaler. " alt="" coords="139,259,287,285"/>
+<area shape="rect" id="node8" href="$group__TIM__Private__Functions.html#ga76f906383b8132ebe00dffadb70cf7f9" title="Sets the TIMx Input Capture 3 prescaler. " alt="" coords="139,309,287,336"/>
+<area shape="rect" id="node9" href="$group__TIM__Private__Functions.html#ga0f2c784271356d6b64b8c0da64dbdbc2" title="Sets the TIMx Input Capture 4 prescaler. " alt="" coords="139,360,287,387"/>
+</map>

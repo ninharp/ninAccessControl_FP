@@ -1,0 +1,4 @@
+<map id="p_WS2812_InitNVIC" name="p_WS2812_InitNVIC">
+<area shape="rect" id="node2" href="$group__MISC__Exported__Functions.html#ga4ab373ed0870c06fca5eb51d639adf41" title="Initializes the NVIC peripheral according to the specified parameters in the NVIC_InitStruct. " alt="" coords="213,5,293,32"/>
+<area shape="rect" id="node3" href="$group__TIM__Exported__Functions.html#ga24700389cfa3ea9b42234933b23f1399" title="Enables or disables the TIMx&#39;s DMA Requests. " alt="" coords="198,56,309,83"/>
+</map>

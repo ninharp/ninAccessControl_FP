@@ -1,0 +1,26 @@
+var group__SPI__Exported__Constants =
+[
+    [ "SPI_data_direction", "group__SPI__data__direction.html", "group__SPI__data__direction" ],
+    [ "SPI_mode", "group__SPI__mode.html", "group__SPI__mode" ],
+    [ "SPI_data_size", "group__SPI__data__size.html", "group__SPI__data__size" ],
+    [ "SPI_Clock_Polarity", "group__SPI__Clock__Polarity.html", "group__SPI__Clock__Polarity" ],
+    [ "SPI_Clock_Phase", "group__SPI__Clock__Phase.html", "group__SPI__Clock__Phase" ],
+    [ "SPI_Slave_Select_management", "group__SPI__Slave__Select__management.html", "group__SPI__Slave__Select__management" ],
+    [ "SPI_BaudRate_Prescaler", "group__SPI__BaudRate__Prescaler.html", "group__SPI__BaudRate__Prescaler" ],
+    [ "SPI_MSB_LSB_transmission", "group__SPI__MSB__LSB__transmission.html", "group__SPI__MSB__LSB__transmission" ],
+    [ "I2S_Mode", "group__I2S__Mode.html", "group__I2S__Mode" ],
+    [ "I2S_Standard", "group__I2S__Standard.html", "group__I2S__Standard" ],
+    [ "I2S_Data_Format", "group__I2S__Data__Format.html", "group__I2S__Data__Format" ],
+    [ "I2S_MCLK_Output", "group__I2S__MCLK__Output.html", "group__I2S__MCLK__Output" ],
+    [ "I2S_Audio_Frequency", "group__I2S__Audio__Frequency.html", "group__I2S__Audio__Frequency" ],
+    [ "I2S_Clock_Polarity", "group__I2S__Clock__Polarity.html", "group__I2S__Clock__Polarity" ],
+    [ "SPI_I2S_DMA_transfer_requests", "group__SPI__I2S__DMA__transfer__requests.html", "group__SPI__I2S__DMA__transfer__requests" ],
+    [ "SPI_NSS_internal_software_management", "group__SPI__NSS__internal__software__management.html", "group__SPI__NSS__internal__software__management" ],
+    [ "SPI_CRC_Transmit_Receive", "group__SPI__CRC__Transmit__Receive.html", "group__SPI__CRC__Transmit__Receive" ],
+    [ "SPI_direction_transmit_receive", "group__SPI__direction__transmit__receive.html", "group__SPI__direction__transmit__receive" ],
+    [ "SPI_I2S_interrupts_definition", "group__SPI__I2S__interrupts__definition.html", "group__SPI__I2S__interrupts__definition" ],
+    [ "SPI_I2S_flags_definition", "group__SPI__I2S__flags__definition.html", "group__SPI__I2S__flags__definition" ],
+    [ "SPI_CRC_polynomial", "group__SPI__CRC__polynomial.html", "group__SPI__CRC__polynomial" ],
+    [ "IS_SPI_23_PERIPH", "group__SPI__Exported__Constants.html#gae2222c673a036497587b8791f89428d0", null ],
+    [ "IS_SPI_ALL_PERIPH", "group__SPI__Exported__Constants.html#gaf54f84a30a5914b54dbfdc186720d0ba", null ]
+];

@@ -1,0 +1,12 @@
+<map id="UB_WS2812_Rotate_Right" name="UB_WS2812_Rotate_Right">
+<area shape="rect" id="node2" href="$stm32__ub__ws2812_8c.html#a9a5726c45bd48c7e63a833a9fc481414" title="UB_WS2812_Refresh" alt="" coords="238,56,389,83"/>
+<area shape="rect" id="node3" href="$stm32__ub__ws2812_8c.html#af1491bcde325fef2377dfc3d3bb3769e" title="p_WS2812_calcTimerBuf" alt="" coords="437,31,608,57"/>
+<area shape="rect" id="node4" href="$stm32__ub__ws2812_8c.html#a69a09d3442cb08bfc1010a1696a30af0" title="p_WS2812_DMA_Start" alt="" coords="443,81,602,108"/>
+<area shape="rect" id="node5" href="$group__DMA__Exported__Functions.html#ga8e7cb6b9ae5f142e2961df879cdaba65" title="Enables or disables the specified DMAy Channelx. " alt="" coords="850,5,937,32"/>
+<area shape="rect" id="node6" href="$group__DMA__Exported__Functions.html#ga0bb60360be9cd57f96399be2f3b5eb2b" title="Enables or disables the specified DMAy Channelx interrupts. " alt="" coords="672,56,781,83"/>
+<area shape="rect" id="node7" href="$stm32__ub__ws2812_8c.html#a68cb6ca24813fbd6572d8eb123a73a1c" title="p_WS2812_InitDMA" alt="" coords="656,107,797,133"/>
+<area shape="rect" id="node11" href="$group__TIM__Exported__Functions.html#ga2bdc275bcbd2ce9d1ba632e6c89896b7" title="Enables or disables the specified TIM peripheral. " alt="" coords="687,157,767,184"/>
+<area shape="rect" id="node8" href="$group__DMA__Exported__Functions.html#ga21ca0d50b13e502db5ab5feb484f9ece" title="Deinitializes the DMAy Channelx registers to their default reset values. " alt="" coords="846,56,941,83"/>
+<area shape="rect" id="node9" href="$group__DMA__Exported__Functions.html#ga7c3d1b9dc041f8e5f2cfc8d5dd858278" title="Initializes the DMAy Channelx according to the specified parameters in the DMA_InitStruct. " alt="" coords="855,107,932,133"/>
+<area shape="rect" id="node10" href="$group__UART1__Exported__Functions.html#ga2d4cc218b16602b311f0859651df6749" title="Logs Message to USART1 with Verbose Level. " alt="" coords="872,157,915,184"/>
+</map>

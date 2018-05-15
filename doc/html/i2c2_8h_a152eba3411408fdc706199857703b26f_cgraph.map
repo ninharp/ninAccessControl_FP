@@ -1,0 +1,17 @@
+<map id="I2C2_ReadByte" name="I2C2_ReadByte">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga7bb44e894d68a7991f564c43fb187486" title="Enables or disables the specified I2C acknowledge feature. " alt="" coords="169,5,335,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga36c522b471588be9779c878222ccb20f" title="Generates I2Cx communication START condition. " alt="" coords="179,56,325,83"/>
+<area shape="rect" id="node4" href="$group__I2C__Exported__Functions.html#ga5c92cb573ca0ae58cc465e5400246561" title="Generates I2Cx communication STOP condition. " alt="" coords="397,183,536,209"/>
+<area shape="rect" id="node5" href="$group__I2C__Exported__Functions.html#ga15c95d0ed124f029621a2061b1677ee7" title="Checks whether the specified I2C flag is set or not. " alt="" coords="185,157,319,184"/>
+<area shape="rect" id="node6" href="$group__I2C__Exported__Functions.html#gaeaaa4b6f77f50eb57465148c55d27fb2" title="Returns the most recent received data by the I2Cx peripheral. " alt="" coords="189,208,315,235"/>
+<area shape="rect" id="node7" href="$group__I2C__Exported__Functions.html#ga009fc2a5b2313c36da39ece39a1156a6" title="Transmits the address byte to select the slave device. " alt="" coords="177,259,327,285"/>
+<area shape="rect" id="node8" href="$group__I2C__Exported__Functions.html#ga7bd9e70b8eafde0dd5eb42b0d95fe1a9" title="Sends a data byte through the I2Cx peripheral. " alt="" coords="198,309,306,336"/>
+<area shape="rect" id="node9" href="$i2c2_8c.html#a9aaace92886be7c7152b25ab88fdae20" title="P_I2C2_timeout" alt="" coords="194,360,310,387"/>
+<area shape="rect" id="node10" href="$group__I2C__Exported__Functions.html#ga2ee214364603059ad5d9089f749f5bfd" title="Deinitializes the I2Cx peripheral registers to their default reset values. " alt="" coords="597,335,683,361"/>
+<area shape="rect" id="node12" href="$group__I2C__Exported__Functions.html#ga1289c908aeb882443aba323b459c638b" title="Enables or disables the specified I2C software reset. " alt="" coords="384,360,549,387"/>
+<area shape="rect" id="node13" href="$i2c2_8c.html#a8c6b441c614d59c1c7b8bbd7707e1ac7" title="P_I2C2_InitI2C" alt="" coords="411,411,523,437"/>
+<area shape="rect" id="node11" href="$group__RCC__Exported__Functions.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset. " alt="" coords="731,335,925,361"/>
+<area shape="rect" id="node14" href="$group__I2C__Exported__Functions.html#ga7e1323c9133c2cb424dfb5b10b7d2f0b" title="Enables or disables the specified I2C peripheral. " alt="" coords="601,385,679,412"/>
+<area shape="rect" id="node15" href="$group__I2C__Exported__Functions.html#gaac29465bca70fbc91c2f922ab67bb88e" title="Initializes the I2Cx peripheral according to the specified parameters in the I2C_InitStruct. " alt="" coords="606,436,674,463"/>
+<area shape="rect" id="node16" href="$group__RCC__Exported__Functions.html#ga3e9944fd1ed734275222bbb3e3f29993" title="Returns the frequencies of different on chip clocks. " alt="" coords="755,436,901,463"/>
+</map>

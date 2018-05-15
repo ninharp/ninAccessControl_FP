@@ -1,0 +1,6 @@
+<map id="I2C2_Start" name="I2C2_Start">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="I2C State Monitoring Functions. " alt="" coords="152,5,275,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga36c522b471588be9779c878222ccb20f" title="Generates I2Cx communication START condition. " alt="" coords="140,56,287,83"/>
+<area shape="rect" id="node4" href="$group__I2C__Exported__Functions.html#ga15c95d0ed124f029621a2061b1677ee7" title="Checks whether the specified I2C flag is set or not. " alt="" coords="146,107,281,133"/>
+<area shape="rect" id="node5" href="$group__I2C__Exported__Functions.html#ga009fc2a5b2313c36da39ece39a1156a6" title="Transmits the address byte to select the slave device. " alt="" coords="139,157,288,184"/>
+</map>

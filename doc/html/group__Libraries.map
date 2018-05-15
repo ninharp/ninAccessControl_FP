@@ -1,0 +1,6 @@
+<map id="Libraries" name="Libraries">
+<area shape="rect" id="node1" href="$group__I2C2__Library.html" title="I2C2_Library" alt="" coords="133,5,229,32"/>
+<area shape="rect" id="node2" href="$group__ADC__Library.html" title="ADC_Library" alt="" coords="133,56,230,83"/>
+<area shape="rect" id="node3" href="$group__UART1__Library.html" title="UART1_Library" alt="" coords="125,107,237,133"/>
+<area shape="rect" id="node4" href="$group__DWT__Library.html" title="DWT_Library" alt="" coords="132,157,231,184"/>
+</map>

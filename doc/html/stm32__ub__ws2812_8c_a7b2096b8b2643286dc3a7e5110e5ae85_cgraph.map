@@ -1,0 +1,5 @@
+<map id="EXTI9_5_IRQHandler" name="EXTI9_5_IRQHandler">
+<area shape="rect" id="node2" href="$group__DMA__Exported__Functions.html#ga511b4c402d1ff32d53f28736956cac5d" title="Returns the number of remaining data units in the current DMAy Channelx transfer. ..." alt="" coords="203,5,381,32"/>
+<area shape="rect" id="node3" href="$group__EXTI__Exported__Functions.html#ga3652a7e682728b310c124e7e974d1468" title="Clears the EXTI&#39;s line pending bits. " alt="" coords="209,56,375,83"/>
+<area shape="rect" id="node4" href="$group__EXTI__Exported__Functions.html#gaf7b51519062ae42fd27ee689cab364aa" title="Checks whether the specified EXTI line is asserted or not. " alt="" coords="227,107,357,133"/>
+</map>

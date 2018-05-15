@@ -1,0 +1,5 @@
+<map id="I2C2_Read_Ack" name="I2C2_Read_Ack">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga7bb44e894d68a7991f564c43fb187486" title="Enables or disables the specified I2C acknowledge feature. " alt="" coords="174,5,341,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="I2C State Monitoring Functions. " alt="" coords="196,56,319,83"/>
+<area shape="rect" id="node4" href="$group__I2C__Exported__Functions.html#gaeaaa4b6f77f50eb57465148c55d27fb2" title="Returns the most recent received data by the I2Cx peripheral. " alt="" coords="194,107,321,133"/>
+</map>

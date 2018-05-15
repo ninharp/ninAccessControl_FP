@@ -1,0 +1,25 @@
+<map id="STM32F10x_StdPeriph_Driver" name="STM32F10x_StdPeriph_Driver">
+<area shape="rect" id="node1" href="$group__BKP.html" title="BKP driver modules. " alt="" coords="227,5,277,32"/>
+<area shape="rect" id="node2" href="$group__CAN.html" title="CAN driver modules. " alt="" coords="227,56,277,83"/>
+<area shape="rect" id="node3" href="$group__CEC.html" title="CEC driver modules. " alt="" coords="227,107,277,133"/>
+<area shape="rect" id="node4" href="$group__RTC.html" title="RTC driver modules. " alt="" coords="227,157,277,184"/>
+<area shape="rect" id="node5" href="$group__DAC.html" title="DAC driver modules. " alt="" coords="227,208,277,235"/>
+<area shape="rect" id="node6" href="$group__CRC.html" title="CRC driver modules. " alt="" coords="226,259,278,285"/>
+<area shape="rect" id="node7" href="$group__I2C.html" title="I2C driver modules. " alt="" coords="231,309,273,336"/>
+<area shape="rect" id="node8" href="$group__WWDG.html" title="WWDG driver modules. " alt="" coords="218,360,286,387"/>
+<area shape="rect" id="node9" href="$group__SPI.html" title="SPI driver modules. " alt="" coords="230,411,274,437"/>
+<area shape="rect" id="node10" href="$group__SDIO.html" title="SDIO driver modules. " alt="" coords="225,461,279,488"/>
+<area shape="rect" id="node11" href="$group__MISC.html" title="MISC driver modules. " alt="" coords="224,512,280,539"/>
+<area shape="rect" id="node12" href="$group__FSMC.html" title="FSMC driver modules. " alt="" coords="222,563,282,589"/>
+<area shape="rect" id="node13" href="$group__DMA.html" title="DMA driver modules. " alt="" coords="226,613,278,640"/>
+<area shape="rect" id="node14" href="$group__TIM.html" title="TIM driver modules. " alt="" coords="229,664,275,691"/>
+<area shape="rect" id="node15" href="$group__IWDG.html" title="IWDG driver modules. " alt="" coords="223,715,281,741"/>
+<area shape="rect" id="node16" href="$group__ADC.html" title="ADC driver modules. " alt="" coords="227,765,277,792"/>
+<area shape="rect" id="node17" href="$group__USART.html" title="USART driver modules. " alt="" coords="218,816,286,843"/>
+<area shape="rect" id="node18" href="$group__GPIO.html" title="GPIO driver modules. " alt="" coords="225,867,279,893"/>
+<area shape="rect" id="node19" href="$group__PWR.html" title="PWR driver modules. " alt="" coords="225,917,279,944"/>
+<area shape="rect" id="node20" href="$group__EXTI.html" title="EXTI driver modules. " alt="" coords="226,968,278,995"/>
+<area shape="rect" id="node21" href="$group__DBGMCU.html" title="DBGMCU driver modules. " alt="" coords="211,1019,293,1045"/>
+<area shape="rect" id="node23" href="$group__RCC.html" title="RCC driver modules. " alt="" coords="226,1069,278,1096"/>
+<area shape="rect" id="node24" href="$group__FLASH.html" title="FLASH driver modules. " alt="" coords="219,1120,285,1147"/>
+</map>

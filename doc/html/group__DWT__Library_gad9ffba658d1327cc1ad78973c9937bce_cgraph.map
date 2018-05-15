@@ -1,0 +1,5 @@
+<map id="DWT_Delay_ms" name="DWT_Delay_ms">
+<area shape="rect" id="node2" href="$group__DWT__Library.html#gac2a53b2530a71f3e19b29343d2566c14" title="Delays n microseconds. " alt="" coords="174,31,269,57"/>
+<area shape="rect" id="node3" href="$group__DWT__Library.html#ga594b52a924ff3f6b3b0211b11dc22b9c" title="Compares parameter with current ticks. " alt="" coords="318,5,431,32"/>
+<area shape="rect" id="node4" href="$group__DWT__Library.html#ga4f8b38f0cf17e83f3f50e554cbe2b5a7" title="Returns the current ticks. " alt="" coords="481,31,562,57"/>
+</map>

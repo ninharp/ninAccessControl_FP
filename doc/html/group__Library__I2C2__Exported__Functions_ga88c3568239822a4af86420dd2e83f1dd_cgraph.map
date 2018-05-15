@@ -1,0 +1,4 @@
+<map id="USART1_Get" name="USART1_Get">
+<area shape="rect" id="node2" href="$group__USART__Exported__Functions.html#ga144630722defc9e312f0ad280b68e9da" title="Checks whether the specified USART flag is set or not. " alt="" coords="158,5,317,32"/>
+<area shape="rect" id="node3" href="$group__USART__Exported__Functions.html#gac67a91845b0b1d54d31bdfb1c5e9867c" title="Returns the most recent received data by the USARTx peripheral. " alt="" coords="162,56,313,83"/>
+</map>

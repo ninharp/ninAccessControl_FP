@@ -1,0 +1,4 @@
+<map id="SPI_I2S_DeInit" name="SPI_I2S_DeInit">
+<area shape="rect" id="node2" href="$group__RCC__Exported__Functions.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset. " alt="" coords="169,5,362,32"/>
+<area shape="rect" id="node3" href="$group__RCC__Exported__Functions.html#gad94553850ac07106a27ee85fec37efdf" title="Forces or releases High Speed APB (APB2) peripheral reset. " alt="" coords="169,56,362,83"/>
+</map>

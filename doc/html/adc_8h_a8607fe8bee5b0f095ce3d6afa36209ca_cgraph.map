@@ -1,0 +1,7 @@
+<map id="ADC_GetValue" name="ADC_GetValue">
+<area shape="rect" id="node2" href="$group__ADC__Exported__Functions.html#gaf34f36798f811b4a41321ea2d12118d4" title="Clears the ADCx&#39;s pending flags. " alt="" coords="207,5,321,32"/>
+<area shape="rect" id="node3" href="$group__ADC__Exported__Functions.html#gaaf74221c285ec5dab5e66baf7bec6bd3" title="Returns the last ADCx conversion result data for regular channel. " alt="" coords="175,56,353,83"/>
+<area shape="rect" id="node4" href="$group__ADC__Exported__Functions.html#gaa12546e51ec905c90a3aada432bd4633" title="Checks whether the specified ADC flag is set or not. " alt="" coords="193,107,335,133"/>
+<area shape="rect" id="node5" href="$group__ADC__Exported__Functions.html#gac531adb577b648d4bb8881f2ed627d52" title="Configures for the selected ADC regular channel its corresponding rank in the sequencer and its sampl..." alt="" coords="169,157,359,184"/>
+<area shape="rect" id="node6" href="$group__ADC__Exported__Functions.html#ga694130a8d1ad3c8877b7eddb29611b30" title="Enables or disables the selected ADC software start conversion . " alt="" coords="165,208,363,235"/>
+</map>

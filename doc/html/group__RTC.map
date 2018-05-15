@@ -1,0 +1,13 @@
+<map id="RTC" name="RTC">
+<area shape="rect" id="node2" href="$group__RTC__Private__Macros.html" title="RTC_Private_Macros" alt="" coords="345,5,493,32"/>
+<area shape="rect" id="node3" href="$group__RTC__Exported__Types.html" title="RTC_Exported_Types" alt="" coords="343,56,495,83"/>
+<area shape="rect" id="node4" href="$group__RTC__Private__Variables.html" title="RTC_Private_Variables" alt="" coords="339,107,498,133"/>
+<area shape="rect" id="node5" href="$group__RTC__Private__FunctionPrototypes.html" title="RTC_Private_FunctionPrototypes" alt="" coords="309,157,528,184"/>
+<area shape="rect" id="node6" href="$group__RTC__Exported__Functions.html" title="RTC_Exported_Functions" alt="" coords="332,208,505,235"/>
+<area shape="rect" id="node7" href="$group__RTC__Private__Functions.html" title="RTC_Private_Functions" alt="" coords="337,259,500,285"/>
+<area shape="rect" id="node8" href="$group__RTC__Private__Defines.html" title="RTC_Private_Defines" alt="" coords="343,309,494,336"/>
+<area shape="rect" id="node9" href="$group__RTC__Private__TypesDefinitions.html" title="RTC_Private_TypesDefinitions" alt="" coords="317,360,520,387"/>
+<area shape="rect" id="node11" href="$group__RTC__Exported__Constants.html" title="RTC_Exported_Constants" alt="" coords="331,411,507,437"/>
+<area shape="rect" id="node12" href="$group__RTC__Exported__Macros.html" title="RTC_Exported_Macros" alt="" coords="339,461,498,488"/>
+<area shape="rect" id="node10" href="$group__STM32F10x__StdPeriph__Driver.html" title="STM32F10x_StdPeriph\l_Driver" alt="" coords="5,226,163,267"/>
+</map>

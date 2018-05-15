@@ -1,0 +1,14 @@
+<map id="p_WS2812_InitTIM" name="p_WS2812_InitTIM">
+<area shape="rect" id="node2" href="$group__RCC__Exported__Functions.html#gae0b30d8598b8393bdba9c3fefba3a968" title="Enables or disables the AHB peripheral clock. " alt="" coords="192,5,379,32"/>
+<area shape="rect" id="node3" href="$group__RCC__Exported__Functions.html#gaee7cc5d73af7fe1986fceff8afd3973e" title="Enables or disables the Low Speed APB (APB1) peripheral clock. " alt="" coords="189,56,381,83"/>
+<area shape="rect" id="node4" href="$group__TIM__Exported__Functions.html#ga42b44b9fc2b0798d733720dd6bac1ac0" title="Enables or disables TIMx peripheral Preload register on ARR. " alt="" coords="204,107,367,133"/>
+<area shape="rect" id="node5" href="$group__TIM__Exported__Functions.html#gafcdb6ff00158862aef7fed5e7a554a3e" title="Initializes the TIMx Channel1 according to the specified parameters in the TIM_OCInitStruct. " alt="" coords="237,157,334,184"/>
+<area shape="rect" id="node6" href="$group__TIM__Exported__Functions.html#ga60e6c29ad8f919bef616cf8e3306dd64" title="Enables or disables the TIMx peripheral Preload register on CCR1. " alt="" coords="205,208,366,235"/>
+<area shape="rect" id="node7" href="$group__TIM__Exported__Functions.html#ga2017455121d910d6ff63ac6f219842c5" title="Initializes the TIMx Channel2 according to the specified parameters in the TIM_OCInitStruct. " alt="" coords="237,259,334,285"/>
+<area shape="rect" id="node8" href="$group__TIM__Exported__Functions.html#ga75b4614c6dd2cd52f2c5becdb6590c10" title="Enables or disables the TIMx peripheral Preload register on CCR2. " alt="" coords="205,309,366,336"/>
+<area shape="rect" id="node9" href="$group__TIM__Exported__Functions.html#ga90d4a358d4e6d4c5ed17dc1d6beb5f30" title="Initializes the TIMx Channel3 according to the specified parameters in the TIM_OCInitStruct. " alt="" coords="237,360,334,387"/>
+<area shape="rect" id="node10" href="$group__TIM__Exported__Functions.html#ga8b2391685a519e60e596b7d596f86f09" title="Enables or disables the TIMx peripheral Preload register on CCR3. " alt="" coords="205,411,366,437"/>
+<area shape="rect" id="node11" href="$group__TIM__Exported__Functions.html#ga64571ebbb58cac39a9e760050175f11c" title="Initializes the TIMx Channel4 according to the specified parameters in the TIM_OCInitStruct. " alt="" coords="237,461,334,488"/>
+<area shape="rect" id="node12" href="$group__TIM__Exported__Functions.html#ga8bf4dfb35ff0c7b494dd96579f50b1ec" title="Enables or disables the TIMx peripheral Preload register on CCR4. " alt="" coords="205,512,366,539"/>
+<area shape="rect" id="node13" href="$group__TIM__Exported__Functions.html#ga83fd58c9416802d9638bbe1715c98932" title="Initializes the TIMx Time Base Unit peripheral according to the specified parameters in the TIM_TimeB..." alt="" coords="221,563,350,589"/>
+</map>

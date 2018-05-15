@@ -1,0 +1,10 @@
+var group__FSMC__ECC__Page__Size =
+[
+    [ "FSMC_ECCPageSize_1024Bytes", "group__FSMC__ECC__Page__Size.html#ga8137931c96b63ec7e6f80a8c7391433f", null ],
+    [ "FSMC_ECCPageSize_2048Bytes", "group__FSMC__ECC__Page__Size.html#gab8f3ae95becd59e71a976b97ded904b8", null ],
+    [ "FSMC_ECCPageSize_256Bytes", "group__FSMC__ECC__Page__Size.html#gaaa1661267b44e6728fa64aca79de54b3", null ],
+    [ "FSMC_ECCPageSize_4096Bytes", "group__FSMC__ECC__Page__Size.html#gaec2e9e434685a1756bd171699248f65a", null ],
+    [ "FSMC_ECCPageSize_512Bytes", "group__FSMC__ECC__Page__Size.html#gacb4da17c28dde89e38ff4ed40497f6b5", null ],
+    [ "FSMC_ECCPageSize_8192Bytes", "group__FSMC__ECC__Page__Size.html#gab6877a99ddf02e7aa95cf04896ce731d", null ],
+    [ "IS_FSMC_ECCPAGE_SIZE", "group__FSMC__ECC__Page__Size.html#ga58fefa0d55875775a88f54ad7498178f", null ]
+];

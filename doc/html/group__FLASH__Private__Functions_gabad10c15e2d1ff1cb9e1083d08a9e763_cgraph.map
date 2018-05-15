@@ -1,0 +1,4 @@
+<map id="FLASH_EnableWriteProtection" name="FLASH_EnableWriteProtection">
+<area shape="rect" id="node2" href="$group__FLASH__Private__Functions.html#ga2ad803999ae93ec03700983c59cae264" title="Waits for a Flash operation to complete or a TIMEOUT to occur. " alt="" coords="257,5,455,32"/>
+<area shape="rect" id="node3" href="$group__FLASH__Private__Functions.html#ga9d5b76b75ef4c578cc45dc836a1929b6" title="Returns the FLASH Bank1 Status. " alt="" coords="504,5,672,32"/>
+</map>

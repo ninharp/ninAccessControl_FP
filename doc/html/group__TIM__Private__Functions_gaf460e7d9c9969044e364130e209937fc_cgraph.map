@@ -1,0 +1,5 @@
+<map id="TIM_TIxExternalClockConfig" name="TIM_TIxExternalClockConfig">
+<area shape="rect" id="node2" href="$group__TIM__Private__Functions.html#gac8dbcb0d903cc0a3491155b5b4fbee65" title="Configure the TI1 as Input. " alt="" coords="282,5,369,32"/>
+<area shape="rect" id="node3" href="$group__TIM__Private__Functions.html#gafed528b30af910d7e55ebd1d22a9a58f" title="Configure the TI2 as Input. " alt="" coords="282,56,369,83"/>
+<area shape="rect" id="node4" href="$group__TIM__Private__Functions.html#ga4252583c6ae8a73d6fc66f7e951dbc35" title="Selects the Input Trigger source. " alt="" coords="246,107,405,133"/>
+</map>

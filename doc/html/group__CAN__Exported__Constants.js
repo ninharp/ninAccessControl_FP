@@ -1,0 +1,26 @@
+var group__CAN__Exported__Constants =
+[
+    [ "CAN_sleep_constants", "group__CAN__sleep__constants.html", "group__CAN__sleep__constants" ],
+    [ "CAN_Mode", "group__CAN__Mode.html", "group__CAN__Mode" ],
+    [ "CAN_Operating_Mode", "group__CAN__Operating__Mode.html", "group__CAN__Operating__Mode" ],
+    [ "CAN_Mode_Status", "group__CAN__Mode__Status.html", "group__CAN__Mode__Status" ],
+    [ "CAN_synchronisation_jump_width", "group__CAN__synchronisation__jump__width.html", "group__CAN__synchronisation__jump__width" ],
+    [ "CAN_time_quantum_in_bit_segment_1", "group__CAN__time__quantum__in__bit__segment__1.html", "group__CAN__time__quantum__in__bit__segment__1" ],
+    [ "CAN_time_quantum_in_bit_segment_2", "group__CAN__time__quantum__in__bit__segment__2.html", "group__CAN__time__quantum__in__bit__segment__2" ],
+    [ "CAN_clock_prescaler", "group__CAN__clock__prescaler.html", "group__CAN__clock__prescaler" ],
+    [ "CAN_filter_number", "group__CAN__filter__number.html", "group__CAN__filter__number" ],
+    [ "CAN_filter_mode", "group__CAN__filter__mode.html", "group__CAN__filter__mode" ],
+    [ "CAN_filter_scale", "group__CAN__filter__scale.html", "group__CAN__filter__scale" ],
+    [ "CAN_filter_FIFO", "group__CAN__filter__FIFO.html", "group__CAN__filter__FIFO" ],
+    [ "Start_bank_filter_for_slave_CAN", "group__Start__bank__filter__for__slave__CAN.html", "group__Start__bank__filter__for__slave__CAN" ],
+    [ "CAN_Tx", "group__CAN__Tx.html", "group__CAN__Tx" ],
+    [ "CAN_identifier_type", "group__CAN__identifier__type.html", "group__CAN__identifier__type" ],
+    [ "CAN_remote_transmission_request", "group__CAN__remote__transmission__request.html", "group__CAN__remote__transmission__request" ],
+    [ "CAN_transmit_constants", "group__CAN__transmit__constants.html", "group__CAN__transmit__constants" ],
+    [ "CAN_receive_FIFO_number_constants", "group__CAN__receive__FIFO__number__constants.html", "group__CAN__receive__FIFO__number__constants" ],
+    [ "CAN_wake_up_constants", "group__CAN__wake__up__constants.html", "group__CAN__wake__up__constants" ],
+    [ "CAN_Error_Code_constants", "group__CAN__Error__Code__constants.html", "group__CAN__Error__Code__constants" ],
+    [ "CAN_flags", "group__CAN__flags.html", "group__CAN__flags" ],
+    [ "CAN_interrupts", "group__CAN__interrupts.html", "group__CAN__interrupts" ],
+    [ "CAN_Legacy", "group__CAN__Legacy.html", "group__CAN__Legacy" ]
+];

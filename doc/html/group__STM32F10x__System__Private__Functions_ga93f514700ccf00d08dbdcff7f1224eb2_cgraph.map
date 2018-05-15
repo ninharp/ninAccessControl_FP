@@ -1,0 +1,4 @@
+<map id="SystemInit" name="SystemInit">
+<area shape="rect" id="node2" href="$group__STM32F10x__System__Private__Functions.html#ga1ee14ac28e60198cc998586807b51e4c" title="Configures the System clock frequency, HCLK, PCLK2 and PCLK1 prescalers. " alt="" coords="139,5,237,32"/>
+<area shape="rect" id="node3" href="$group__STM32F10x__System__Private__Functions.html#ga33cc07ebcb658e015d1a4460dea5cf58" title="Setup the external memory controller. Called in startup_stm32f10x.s before jump to __main..." alt="" coords="285,5,413,32"/>
+</map>

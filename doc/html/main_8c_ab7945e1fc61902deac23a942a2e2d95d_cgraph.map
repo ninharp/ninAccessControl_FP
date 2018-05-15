@@ -1,0 +1,16 @@
+<map id="RCC_Configuration" name="RCC_Configuration">
+<area shape="rect" id="node2" href="$group__FLASH__Exported__Functions.html#ga6b93faaf0f560bf8d662b2cefe2f70e8" title="Enables or disables the Prefetch Buffer. " alt="" coords="189,5,373,32"/>
+<area shape="rect" id="node3" href="$group__FLASH__Exported__Functions.html#ga54bcb96270215c752c3479c8c9e438c0" title="Sets the code latency value. " alt="" coords="212,56,351,83"/>
+<area shape="rect" id="node4" href="$group__RCC__Exported__Functions.html#ga413f6422be11b1334abe60b3bff2e062" title="Resets the RCC clock configuration to the default reset state. " alt="" coords="234,107,329,133"/>
+<area shape="rect" id="node5" href="$group__RCC__Exported__Functions.html#ga2897bdc52f272031c44fb1f72205d295" title="Checks whether the specified RCC flag is set or not. " alt="" coords="210,157,353,184"/>
+<area shape="rect" id="node6" href="$group__RCC__Exported__Functions.html#gaaeb32311c208b2a980841c9c884a41ea" title="Returns the clock source used as system clock. " alt="" coords="194,208,369,235"/>
+<area shape="rect" id="node7" href="$group__RCC__Exported__Functions.html#ga9d0aec72e236c6cdf3a3a82dfb525491" title="Configures the AHB clock (HCLK). " alt="" coords="215,259,348,285"/>
+<area shape="rect" id="node8" href="$group__RCC__Exported__Functions.html#ga432b3281546d23345642d55f8670a93d" title="Configures the External High Speed oscillator (HSE). " alt="" coords="219,309,344,336"/>
+<area shape="rect" id="node9" href="$group__RCC__Exported__Functions.html#ga448137346d4292985d4e7a61dd1a824f" title="Configures the Low Speed APB clock (PCLK1). " alt="" coords="212,360,351,387"/>
+<area shape="rect" id="node10" href="$group__RCC__Exported__Functions.html#ga09f9c010a4adca9e036da42c2ca6126a" title="Configures the High Speed APB clock (PCLK2). " alt="" coords="212,411,351,437"/>
+<area shape="rect" id="node11" href="$group__RCC__Exported__Functions.html#ga84dee53c75e58fdb53571716593c2272" title="Enables or disables the PLL. " alt="" coords="226,461,337,488"/>
+<area shape="rect" id="node12" href="$group__RCC__Exported__Functions.html#ga0f67634cbe721f2c42f022d2a93229c8" title="Configures the PLL clock source and multiplication factor. " alt="" coords="221,512,341,539"/>
+<area shape="rect" id="node13" href="$group__RCC__Exported__Functions.html#ga3551a36a8f0a3dc96a74d6b939048337" title="Configures the system clock (SYSCLK). " alt="" coords="206,563,357,589"/>
+<area shape="rect" id="node14" href="$group__RCC__Exported__Functions.html#gae0f15692614dd048ee4110a056f001dc" title="Waits for HSE start&#45;up. " alt="" coords="192,613,371,640"/>
+<area shape="rect" id="node15" href="$group__RCC__Private__Functions.html#ga2897bdc52f272031c44fb1f72205d295" title="Checks whether the specified RCC flag is set or not. " alt="" coords="422,613,565,640"/>
+</map>

@@ -1,0 +1,26 @@
+var group__STM32F10x__StdPeriph__Driver =
+[
+    [ "MISC", "group__MISC.html", "group__MISC" ],
+    [ "ADC", "group__ADC.html", "group__ADC" ],
+    [ "BKP", "group__BKP.html", "group__BKP" ],
+    [ "CAN", "group__CAN.html", "group__CAN" ],
+    [ "CEC", "group__CEC.html", "group__CEC" ],
+    [ "CRC", "group__CRC.html", "group__CRC" ],
+    [ "DAC", "group__DAC.html", "group__DAC" ],
+    [ "DBGMCU", "group__DBGMCU.html", "group__DBGMCU" ],
+    [ "DMA", "group__DMA.html", "group__DMA" ],
+    [ "EXTI", "group__EXTI.html", "group__EXTI" ],
+    [ "FLASH", "group__FLASH.html", "group__FLASH" ],
+    [ "FSMC", "group__FSMC.html", "group__FSMC" ],
+    [ "GPIO", "group__GPIO.html", "group__GPIO" ],
+    [ "I2C", "group__I2C.html", "group__I2C" ],
+    [ "IWDG", "group__IWDG.html", "group__IWDG" ],
+    [ "PWR", "group__PWR.html", "group__PWR" ],
+    [ "RCC", "group__RCC.html", "group__RCC" ],
+    [ "RTC", "group__RTC.html", "group__RTC" ],
+    [ "SDIO", "group__SDIO.html", "group__SDIO" ],
+    [ "SPI", "group__SPI.html", "group__SPI" ],
+    [ "TIM", "group__TIM.html", "group__TIM" ],
+    [ "USART", "group__USART.html", "group__USART" ],
+    [ "WWDG", "group__WWDG.html", "group__WWDG" ]
+];

@@ -1,0 +1,21 @@
+<map id="RCC_Exported_Constants" name="RCC_Exported_Constants">
+<area shape="rect" id="node1" href="$group__APB2__peripheral.html" title="APB2_peripheral" alt="" coords="366,5,485,32"/>
+<area shape="rect" id="node2" href="$group__LSE__configuration.html" title="LSE_configuration" alt="" coords="361,56,489,83"/>
+<area shape="rect" id="node3" href="$group__RCC__Interrupt__source.html" title="RCC_Interrupt_source" alt="" coords="349,107,502,133"/>
+<area shape="rect" id="node4" href="$group__APB1__peripheral.html" title="APB1_peripheral" alt="" coords="366,157,485,184"/>
+<area shape="rect" id="node5" href="$group__AHB__peripheral.html" title="AHB_peripheral" alt="" coords="369,208,482,235"/>
+<area shape="rect" id="node6" href="$group__USB__Device__clock__source.html" title="USB_Device_clock_source" alt="" coords="334,259,517,285"/>
+<area shape="rect" id="node7" href="$group__RTC__clock__source.html" title="RTC_clock_source" alt="" coords="358,309,493,336"/>
+<area shape="rect" id="node8" href="$group__PREDIV1__clock__source.html" title="PREDIV1_clock_source" alt="" coords="343,360,507,387"/>
+<area shape="rect" id="node9" href="$group__RCC__Flag.html" title="RCC_Flag" alt="" coords="383,411,467,437"/>
+<area shape="rect" id="node10" href="$group__System__clock__source.html" title="System_clock_source" alt="" coords="350,461,501,488"/>
+<area shape="rect" id="node12" href="$group__APB1__APB2__clock__source.html" title="APB1_APB2_clock_source" alt="" coords="335,512,516,539"/>
+<area shape="rect" id="node13" href="$group__Clock__source__to__output__on__MCO__pin.html" title="Clock_source_to_output\l_on_MCO_pin" alt="" coords="344,563,507,605"/>
+<area shape="rect" id="node14" href="$group__PREDIV1__division__factor.html" title="PREDIV1_division_factor" alt="" coords="340,629,511,656"/>
+<area shape="rect" id="node15" href="$group__PLL__entry__clock__source.html" title="PLL_entry_clock_source" alt="" coords="343,680,508,707"/>
+<area shape="rect" id="node16" href="$group__AHB__clock__source.html" title="AHB_clock_source" alt="" coords="358,731,493,757"/>
+<area shape="rect" id="node17" href="$group__ADC__clock__source.html" title="ADC_clock_source" alt="" coords="358,781,493,808"/>
+<area shape="rect" id="node18" href="$group__PLL__multiplication__factor.html" title="PLL_multiplication\l_factor" alt="" coords="361,833,489,874"/>
+<area shape="rect" id="node19" href="$group__HSE__configuration.html" title="HSE_configuration" alt="" coords="360,899,491,925"/>
+<area shape="rect" id="node20" href="$group__RCC.html" title="RCC driver modules. " alt="" coords="6,436,58,463"/>
+</map>

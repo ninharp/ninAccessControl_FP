@@ -1,0 +1,6 @@
+<map id="TIM_PWMIConfig" name="TIM_PWMIConfig">
+<area shape="rect" id="node2" href="$group__TIM__Private__Functions.html#gac8dbcb0d903cc0a3491155b5b4fbee65" title="Configure the TI1 as Input. " alt="" coords="213,5,299,32"/>
+<area shape="rect" id="node3" href="$group__TIM__Private__Functions.html#gafed528b30af910d7e55ebd1d22a9a58f" title="Configure the TI2 as Input. " alt="" coords="213,56,299,83"/>
+<area shape="rect" id="node4" href="$group__TIM__Private__Functions.html#gaf0f684dea88e222de9689d8ed0ca8805" title="Sets the TIMx Input Capture 1 prescaler. " alt="" coords="182,107,330,133"/>
+<area shape="rect" id="node5" href="$group__TIM__Private__Functions.html#ga3cc4869b5fe73271808512c89322a325" title="Sets the TIMx Input Capture 2 prescaler. " alt="" coords="182,157,330,184"/>
+</map>

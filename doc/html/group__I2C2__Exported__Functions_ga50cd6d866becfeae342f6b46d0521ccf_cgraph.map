@@ -1,0 +1,4 @@
+<map id="I2C2_Write" name="I2C2_Write">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="I2C State Monitoring Functions. " alt="" coords="141,5,264,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga7bd9e70b8eafde0dd5eb42b0d95fe1a9" title="Sends a data byte through the I2Cx peripheral. " alt="" coords="149,56,257,83"/>
+</map>

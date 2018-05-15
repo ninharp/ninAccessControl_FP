@@ -1,0 +1,5 @@
+<map id="IO_Init" name="IO_Init">
+<area shape="rect" id="node2" href="$group__GPIO__Exported__Functions.html#ga71abf9404261370d03cca449b88d3a65" title="Initializes the GPIOx peripheral according to the specified parameters in the GPIO_InitStruct. " alt="" coords="171,5,251,32"/>
+<area shape="rect" id="node3" href="$group__GPIO__Exported__Functions.html#ga6fcd35b207a66608dd2c9d7de9247dc8" title="Clears the selected data port bits. " alt="" coords="151,56,271,83"/>
+<area shape="rect" id="node4" href="$group__RCC__Exported__Functions.html#ga56ff55caf8d835351916b40dd030bc87" title="Enables or disables the High Speed APB (APB2) peripheral clock. " alt="" coords="115,107,307,133"/>
+</map>

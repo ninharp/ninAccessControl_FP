@@ -1,0 +1,6 @@
+<map id="UB_Led_Switch" name="UB_Led_Switch">
+<area shape="rect" id="node2" href="$stm32__ub__led_8c.html#a043f51779b9f4c23d4f1312082f16db4" title="UB_Led_Off" alt="" coords="171,5,266,32"/>
+<area shape="rect" id="node4" href="$stm32__ub__led_8c.html#af991c99ac1145eb38ff09c1bf0a13ae0" title="UB_Led_On" alt="" coords="172,56,265,83"/>
+<area shape="rect" id="node3" href="$group__GPIO__Exported__Functions.html#ga6fcd35b207a66608dd2c9d7de9247dc8" title="Clears the selected data port bits. " alt="" coords="315,5,435,32"/>
+<area shape="rect" id="node5" href="$group__GPIO__Exported__Functions.html#ga9e1352eed7c6620e18af2d86f6b6ff8e" title="Sets the selected data port bits. " alt="" coords="322,56,427,83"/>
+</map>

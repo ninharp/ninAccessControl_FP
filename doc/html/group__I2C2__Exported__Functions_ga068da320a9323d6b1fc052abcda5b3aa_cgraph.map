@@ -1,0 +1,6 @@
+<map id="I2C2_Read_Nack" name="I2C2_Read_Nack">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga7bb44e894d68a7991f564c43fb187486" title="Enables or disables the specified I2C acknowledge feature. " alt="" coords="182,5,349,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga2d5701342f9d4c1f09bf9d3cdcacc326" title="I2C State Monitoring Functions. " alt="" coords="204,56,327,83"/>
+<area shape="rect" id="node4" href="$group__I2C__Exported__Functions.html#ga5c92cb573ca0ae58cc465e5400246561" title="Generates I2Cx communication STOP condition. " alt="" coords="196,107,335,133"/>
+<area shape="rect" id="node5" href="$group__I2C__Exported__Functions.html#gaeaaa4b6f77f50eb57465148c55d27fb2" title="Returns the most recent received data by the I2Cx peripheral. " alt="" coords="202,157,329,184"/>
+</map>

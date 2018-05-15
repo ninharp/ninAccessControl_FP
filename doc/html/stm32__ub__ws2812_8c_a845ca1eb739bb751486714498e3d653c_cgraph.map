@@ -1,0 +1,6 @@
+<map id="WS2812_DMA_CH2_ISR" name="WS2812_DMA_CH2_ISR">
+<area shape="rect" id="node2" href="$group__DMA__Exported__Functions.html#ga25cdca360f309c8ceb7c206cd9ad9119" title="Clears the DMAy Channelx&#39;s pending flags. " alt="" coords="235,5,349,32"/>
+<area shape="rect" id="node3" href="$group__DMA__Exported__Functions.html#ga8e7cb6b9ae5f142e2961df879cdaba65" title="Enables or disables the specified DMAy Channelx. " alt="" coords="249,56,335,83"/>
+<area shape="rect" id="node4" href="$group__DMA__Exported__Functions.html#ga9287331247150fe84d03ecd7ad8adb52" title="Checks whether the specified DMAy Channelx interrupt has occurred or not. " alt="" coords="227,107,357,133"/>
+<area shape="rect" id="node5" href="$group__TIM__Exported__Functions.html#ga2bdc275bcbd2ce9d1ba632e6c89896b7" title="Enables or disables the specified TIM peripheral. " alt="" coords="252,157,332,184"/>
+</map>

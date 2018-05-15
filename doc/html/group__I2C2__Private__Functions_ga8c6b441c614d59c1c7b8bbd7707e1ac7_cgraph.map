@@ -1,0 +1,7 @@
+<map id="P_I2C2_InitI2C" name="P_I2C2_InitI2C">
+<area shape="rect" id="node2" href="$group__I2C__Exported__Functions.html#ga7e1323c9133c2cb424dfb5b10b7d2f0b" title="Enables or disables the specified I2C peripheral. " alt="" coords="169,5,247,32"/>
+<area shape="rect" id="node3" href="$group__I2C__Exported__Functions.html#ga2ee214364603059ad5d9089f749f5bfd" title="Deinitializes the I2Cx peripheral registers to their default reset values. " alt="" coords="165,56,251,83"/>
+<area shape="rect" id="node5" href="$group__I2C__Exported__Functions.html#gaac29465bca70fbc91c2f922ab67bb88e" title="Initializes the I2Cx peripheral according to the specified parameters in the I2C_InitStruct. " alt="" coords="174,107,242,133"/>
+<area shape="rect" id="node4" href="$group__RCC__Exported__Functions.html#gab197ae4369c10b92640a733b40ed2801" title="Forces or releases Low Speed APB (APB1) peripheral reset. " alt="" coords="299,56,493,83"/>
+<area shape="rect" id="node6" href="$group__RCC__Exported__Functions.html#ga3e9944fd1ed734275222bbb3e3f29993" title="Returns the frequencies of different on chip clocks. " alt="" coords="323,107,469,133"/>
+</map>
